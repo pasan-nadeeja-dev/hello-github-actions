@@ -9,7 +9,7 @@ inputs:
     default: "World"
 
 runs: 
-  using: "image"
+  using: "docker"
   image: "Dockerfile"
 
 branding:
